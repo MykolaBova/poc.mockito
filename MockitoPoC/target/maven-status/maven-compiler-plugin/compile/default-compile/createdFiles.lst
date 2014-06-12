@@ -1,0 +1,12 @@
+poc\exception\IntegrationException.class
+poc\integration\ConcreteIntegrator.class
+poc\exception\UpdateException.class
+poc\domain\Payment.class
+poc\domain\Account.class
+poc\service\BWServiceImpl.class
+poc\domain\Customer.class
+poc\service\dao\BankSystemDAO.class
+poc\service\BWService.class
+poc\integration\Integrator.class
+poc\domain\Deposit.class
+poc\service\dao\BankSystemDAOImpl.class
